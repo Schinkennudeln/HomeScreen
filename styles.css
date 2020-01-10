@@ -1,10 +1,10 @@
-/* table, th, td {
+table, th, td {
     border-style: solid;
     border-color: grey;
     border-width: thin;
 }
 
 iframe {
-  height: 300px;
+  height: 800px;
 }
- */
+
